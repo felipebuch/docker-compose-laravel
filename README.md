@@ -2,7 +2,9 @@
 Publicando imagem Laravel
 
 Docker Hub
+
 https://hub.docker.com/repositories
+
 
 felipebuch / laravel_app
 
